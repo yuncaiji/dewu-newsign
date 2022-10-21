@@ -25,7 +25,7 @@
 所有请求和响应的编码均为 UTF-8。
 所有的请求方式（Method）如无特殊说明均为 GET 请求方式
 所有请求都有权限验证，都需要传入token 进行验证。获取token请联系：添加好友时请备注:api
-![image.png](https://api.apifox.cn/api/v1/projects/924076/resources/353818/image-preview)
+![微信](weixin.jpg)
 
 
 # 使用建议
